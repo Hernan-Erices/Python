@@ -17,6 +17,8 @@ lista_numerica.sort(reverse=True) #Ordena la lista de menor a mayor, si se usa e
 
 lista_numerica.reverse() #invierte los elementos de la lista
 
+elemento_buscado = lista.index(6) #verifica si un elemento se encuentra en la lista
+
 lista_numerica.clear() #Elimina todos los elementos de la lista
 
-print(lista_numerica)
+print(elemento_buscado)
