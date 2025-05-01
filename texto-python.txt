@@ -1,0 +1,13 @@
+Hola mundo
+Hola mundo 2
+Hola mundo 3
+no sobre escribe
+no sobre escribe el texto
+no sobre escribe
+esto es un append
+
+linea 1 agregada
+linea 2 agregada
+linea 3 agregada
+linea 4 agregada
+linea 5 agregada
